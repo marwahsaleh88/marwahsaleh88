@@ -10,7 +10,7 @@ Currently studying full-stack web development at DCI Akademie 🇩🇪
 Dreaming of building secure, clean, and powerful backend systems 🔐🚀
 
 
-![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) 
+![Coding Animation](https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif)
 
 
 ## 🛠️ My Tech Stack
