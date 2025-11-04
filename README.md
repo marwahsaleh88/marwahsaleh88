@@ -1,5 +1,15 @@
 # 👋 Hi, I'm Marwah
 
+## 😅 About Me
+
+I'm still a beginner... but I'm learning fast!  
+I break things 💥, fix them 🛠️, and sometimes just stare at the screen like 😵‍💫  
+But I love every moment of it! 💻☕🐣
+
+Currently studying full-stack web development at DCI Akademie 🇩🇪  
+Dreaming of building secure, clean, and powerful backend systems 🔐🚀
+
+
 ![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) 
 
 
