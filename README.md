@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Marwah
 
 ## 😅 About Me
+![Funny Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhraTBjODU1MjJjamJrd2hnYmZvaTh4ajhoN2EyMGlpYW4yZ3MxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDxVzsDgLo3rLQzVlc/giphy.gif)
 
 I'm still a beginner... but I'm learning fast!  
 I break things 💥, fix them 🛠️, and sometimes just stare at the screen like 😵‍💫  
@@ -10,7 +11,6 @@ Currently studying full-stack web development at DCI Akademie 🇩🇪
 Dreaming of building secure, clean, and powerful backend systems 🔐🚀
 
 
-![Coding Animation](https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif)
 
 
 ## 🛠️ My Tech Stack
