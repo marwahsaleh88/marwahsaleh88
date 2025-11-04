@@ -26,6 +26,16 @@ Dreaming of building secure, clean, and powerful backend systems 🔐🚀
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://your-link/js.gif" alt="JavaScript" width="50"/>
+  <img src="https://your-link/react.gif" alt="React" width="50"/>
+  <img src="https://your-link/node.gif" alt="Node.js" width="50"/>
+  <img src="https://your-link/mongo.gif" alt="MongoDB" width="50"/>
+  <img src="https://your-link/sql.gif" alt="SQL" width="50"/>
+  <img src="https://your-link/linux.gif" alt="Linux" width="50"/>
+</div>
 
 
 🎓 Full-Stack Web Developer at DCI Akademie  
